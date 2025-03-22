@@ -1,0 +1,131 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+   float: right;
+   
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 30px;
+    border: solid blue 2px;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    margin: 30PX; 
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+    background-color: blue;
+    color: white;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    
+}
+
+article {
+    background-color: white;
+    padding: ;
+    width: 400px;
+    margin: ;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: wheat;
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: white;
+    padding: ;
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+}
+.qw{
+    display: flex;
+    float: right;
+
+
+}
+.qq{
+    border-radius: 4px;
+    border: solid blue 3px;
+}
+.qf{
+    border-radius: 4px;
+    border: solid blue 3px;
+}
+.qa{
+    border-radius: 4px;
+    border: solid blue 3px;
+}
+.qs{
+    border-radius: 4px;
+    border: solid blue 3px;
+}
+.qd{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 4px;
+    border: solid blue 3px;
+}
+h2{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+p{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
